@@ -6,11 +6,6 @@ I enjoy solving technical problems, building solutions, and continuously learnin
 
 ---
 
-## 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayishamiara&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
-
----
-
 ## 🛠 My Skills  
 
 ### 👩‍💻 Programming & Scripting  
@@ -31,6 +26,8 @@ I enjoy solving technical problems, building solutions, and continuously learnin
 - Data automation & cloud tools  
 
 ---
+## 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayishamiara&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
 ## 📊 GitHub Stats  
 
