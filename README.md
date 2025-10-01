@@ -6,10 +6,6 @@ I enjoy solving technical problems, building solutions, and continuously learnin
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayishamiara&color=blueviolet&style=flat)
-
----
-
 ## 🔥 Streak Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayishamiara&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
@@ -39,3 +35,4 @@ I enjoy solving technical problems, building solutions, and continuously learnin
 ## 📊 GitHub Stats  
 
 ![Ayisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayishamiara&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayishamiara&layout=compact&theme=tokyonight)  
+![Profile Views](https://komarev.com/ghpvc/?username=ayishamiara&color=blueviolet&style=flat)
