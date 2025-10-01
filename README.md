@@ -26,10 +26,19 @@ I enjoy solving technical problems, building solutions, and continuously learnin
 - Data automation & cloud tools  
 
 ---
+---
+
 ## 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayishamiara&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayishamiara&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>  
 
 ## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayishamiara&show_icons=true&theme=tokyonight" alt="GitHub stats"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayishamiara&layout=compact&theme=tokyonight" alt="Top Langs"/>  
+</p>  
 
-![Ayisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayishamiara&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayishamiara&layout=compact&theme=tokyonight)  
-![Profile Views](https://komarev.com/ghpvc/?username=ayishamiara&color=blueviolet&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayishamiara&color=blueviolet&style=flat" alt="Profile Views"/>  
+</p>
