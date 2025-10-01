@@ -1,6 +1,6 @@
 # Hi, I'm Ayisha 👋  
 
-💻 **Technical Support Engineer | NetSuite SuiteCloud | Aspiring Developer**  
+💻 **Technical Support Engineer for SuiteCloud @ Oracle NetSuite**  
 
 I enjoy solving technical problems, building solutions, and continuously learning new tools and technologies. My background includes **NetSuite SuiteCloud scripting, integrations, and QA testing**, along with interests in **JavaScript, automation, and cloud ERP systems**.  
 
