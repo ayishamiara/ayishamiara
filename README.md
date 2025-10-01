@@ -39,19 +39,6 @@ I enjoy solving technical problems, building solutions, and continuously learnin
 
 ---
 
-## 💼 Experience  
-
-- **Oracle NetSuite** – *Associate Technical Support Engineer*  
-  Troubleshot SuiteCloud-related issues (SuiteScript, SuiteQL, REST/SOAP, SAML SSO). Authored SuiteAnswers knowledge base articles and supported QA testing for the 2025.2 release.  
-
-- **Game Development Project (Academic)** – *Team Lead*  
-  Designed game logic for K-pop card system and resolved team conflicts through compromise.  
-
-- **Sales Tracker (Personal Project)**  
-  Built a **Google Sheets system** to track multi-branch sales of donuts and drinks, automating calculations with formulas & array functions.  
-
----
-
 ## 🎯 Focus of Interests  
 
 - ERP customization & integrations (NetSuite)  
@@ -60,11 +47,6 @@ I enjoy solving technical problems, building solutions, and continuously learnin
 
 ---
 
-## 📜 Certificates  
-
-- 🎓 Certificate of Academic Excellence – [Your Department]  
-- 🏅 Oracle NetSuite SuiteCloud Training *(if applicable)*  
-- 📑 [Other certificates you want to highlight]  
 ## 📊 GitHub Stats  
 
 ![Ayisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayishamiara&show_icons=true&theme=tokyonight)  
