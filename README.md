@@ -26,7 +26,6 @@ I enjoy solving technical problems, building solutions, and continuously learnin
 - Data automation & cloud tools  
 
 ---
----
 
 ## 🔥 Streak Stats  
 <p align="center">
